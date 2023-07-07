@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy:v1.19.0
+FROM gcr.io/google_containers/kube-proxy-amd64:v1.14.2
 MAINTAINER www.minglouguli.com
